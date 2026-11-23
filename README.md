@@ -8,6 +8,7 @@ Student engineer working toward aerospace. I design flight electronics, build ra
 ### Building now
 
 - **High-altitude balloon payload.** A custom flight computer PCB for a ~30 km flight, split into power, MCU, GPS, atmospheric sensing, radio tracking and logging. Designed in KiCad around an ATmega328P, with a u-blox GPS in airborne mode and an MS5611 pressure sensor rated to ~10 mbar.
+- **Wearable voice assistant.** A wearable built on a XIAO ESP32S3 Sense with a 1.54" e-paper display and three buttons. It encrypts recorded speech on the device, and a home server transcribes it into a tiered memory you can talk to.
 - **LoRa mesh radio.** An off-grid, privacy-focused mesh protocol stack on SX1262 radios, designed layer by layer from scratch.
 - **AERIS-10 phased-array radar.** Researching a build of the open-source X-band phased-array radar, starting with the cost and parts plan for its two variants.
 
